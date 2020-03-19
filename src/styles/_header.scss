@@ -1,11 +1,10 @@
 #particles-js {
-  background: $main;
+  background : {
+    image : url(https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg);
+  }
   display: flex;
   vertical-align: bottom;
   min-height: 100vh;
-  background : {
-	image : url(https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg);
-  }
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
