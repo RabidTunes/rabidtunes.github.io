@@ -1,7 +1,11 @@
 #particles-js {
-  background : {
-    image : url(https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg);
-  };
+  background: {
+      image: url(https://marcbruederlin.github.io/particles.js/img/background.jpg);
+      position: bottom;
+      repeat: no-repeat;
+      color: black;
+      size: cover;
+  }
   display: flex;
   vertical-align: bottom;
   min-height: 100vh;
