@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "nb_sides": 5
         },
         "image": {
-          "src": "img/github.svg",
+          "src": "https://icatcare.org/app/uploads/2018/06/Layer-1704-1920x840.jpg",
           "width": 100,
           "height": 100
         }
