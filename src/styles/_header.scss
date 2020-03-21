@@ -16,6 +16,18 @@
   height: auto;
 }
 
+.responsive-icon {
+  width : 100%;
+  max-width : 60px;
+  height: auto;
+}
+
+.responsive-icon-alt {
+  height : 100%;
+  max-height : 60px;
+  width : auto;
+}
+
 .header {
   font-family: 'Montserrat', sans-serif;
   z-index: 1;
