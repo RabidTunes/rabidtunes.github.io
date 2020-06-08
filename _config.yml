@@ -1,14 +1,14 @@
 # Site settings
 title: Rabid Tunes
-description: Rabid Tunes resume webpage
+description: Rabid Tunes Resume Webpage
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rabidtunes.github.io"
+url: "https://rabidtunes.com"
 
 # User settings
 username: Rabid Tunes
-user_description: Welcome to my personal page! I'm Rabid Tunes, a video game music composer. You can see my work by clicking the icons above!
+user_description: Welcome to my personal page! I'm Rabid Tunes, a video game music composer. You can contact me or listen to my work by clicking the icons above!
 user_title: Video game music composer
-email: rabidtunesmusic@gmail.com
+email: contact@rabidtunes.com
 
 # Google-analytics
 google-analytics:
